@@ -79,6 +79,7 @@ The {uri-docker-kroki-image}[yuzutech/kroki] image contains the gateway server, 
 * https://github.com/BurntSushi/erd[Erd]
 * https://www.graphviz.org/[GraphViz]
 * https://github.com/skanaar/nomnoml[Nomnoml]
+* https://tikz.dev/[PGF/TikZ]
 * https://github.com/drhsqlite/pikchr[Pikchr]
 * https://github.com/plantuml/plantuml[PlantUML] including https://github.com/RicardoNiepel/C4-PlantUML[C4 model]
 * https://github.com/structurizr/dsl[Structurizr]
@@ -104,6 +105,7 @@ In other words, the following endpoints will be available:
 /plantuml
 /structurizr
 /svgbob
+/tikz
 /umlet
 /vega
 /vegalite

@@ -54,6 +54,9 @@ The `yuzutech/kroki` Docker image contains the following diagrams libraries out-
 |{nomnoml-version}
 //|Binary `/node/bin/nomnoml`
 
+|https://tikz.dev[PGF/TikZ]
+|{pgf-version}
+
 |https://github.com/drhsqlite/pikchr[Pikchr]
 |{pikchr-version}
 
